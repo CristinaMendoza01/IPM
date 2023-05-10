@@ -1,0 +1,19 @@
+{
+"instructions_readme": "1) Open Chrome, 2) go to chrome://tracing, 3) click Load, 4) navigate to this file.",
+
+"traceEvents":[
+{ "pid": "Unity", "ph":"M", "name": "process_name", "args": {"name": "Unity"} },
+{ "pid": "Unity", "ph":"M", "name": "process_sort_index", "args": {"sort_index": -100} },
+{ "pid": "Unity", "tid": 1, "ph":"M", "name": "thread_name", "args": {"name": ""} },
+{ "pid": "Unity", "tid": 1,"ts": 1.68372921583415E+15,"dur": 370059, "ph":"X", "name": "Build player"},
+{ "pid": "Unity", "tid": 1,"ts": 1.68372921591348E+15,"dur": 240152, "ph":"X", "name": "Preprocess Player"},
+{}
+
+],
+"meta_datetime": "05/10/2023 16:33:36",
+"meta_command_line": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.23f1\\Editor\\Unity.exe\" -projectpath C:\\Users\\cris\\Desktop\\GitHub\\IPM\\MCD -useHub -hubIPC -cloudEnvironment production -licensingIpc LicenseClient-cris -hubSessionId 1f47e8ee-4dd1-4d30-ace7-9e4fd28a648e -accessToken hCv2dl3RmPXmRp9zzYmBab-HG4KMLECwaIr5_CWZD1M012f",
+"meta_command_line_args": "C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.23f1\\Editor\\Unity.exe -projectpath C:\\Users\\cris\\Desktop\\GitHub\\IPM\\MCD -useHub -hubIPC -cloudEnvironment production -licensingIpc LicenseClient-cris -hubSessionId 1f47e8ee-4dd1-4d30-ace7-9e4fd28a648e -accessToken hCv2dl3RmPXmRp9zzYmBab-HG4KMLECwaIr5_CWZD1M012f",
+"meta_user_name": "cris",
+"meta_os_version": "Microsoft Windows NT 10.0.19045.0",
+"meta_cpu_count": "8"
+}
