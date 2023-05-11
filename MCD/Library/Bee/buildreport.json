@@ -5,14 +5,14 @@
 { "pid": "Unity", "ph":"M", "name": "process_name", "args": {"name": "Unity"} },
 { "pid": "Unity", "ph":"M", "name": "process_sort_index", "args": {"sort_index": -100} },
 { "pid": "Unity", "tid": 1, "ph":"M", "name": "thread_name", "args": {"name": ""} },
-{ "pid": "Unity", "tid": 1,"ts": 1.68372921583415E+15,"dur": 370059, "ph":"X", "name": "Build player"},
-{ "pid": "Unity", "tid": 1,"ts": 1.68372921591348E+15,"dur": 240152, "ph":"X", "name": "Preprocess Player"},
+{ "pid": "Unity", "tid": 1,"ts": 1.68381375575036E+15,"dur": 435583, "ph":"X", "name": "Build player"},
+{ "pid": "Unity", "tid": 1,"ts": 1.68381375580549E+15,"dur": 288993, "ph":"X", "name": "Preprocess Player"},
 {}
 
 ],
-"meta_datetime": "05/10/2023 16:33:36",
-"meta_command_line": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.23f1\\Editor\\Unity.exe\" -projectpath C:\\Users\\cris\\Desktop\\GitHub\\IPM\\MCD -useHub -hubIPC -cloudEnvironment production -licensingIpc LicenseClient-cris -hubSessionId 1f47e8ee-4dd1-4d30-ace7-9e4fd28a648e -accessToken hCv2dl3RmPXmRp9zzYmBab-HG4KMLECwaIr5_CWZD1M012f",
-"meta_command_line_args": "C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.23f1\\Editor\\Unity.exe -projectpath C:\\Users\\cris\\Desktop\\GitHub\\IPM\\MCD -useHub -hubIPC -cloudEnvironment production -licensingIpc LicenseClient-cris -hubSessionId 1f47e8ee-4dd1-4d30-ace7-9e4fd28a648e -accessToken hCv2dl3RmPXmRp9zzYmBab-HG4KMLECwaIr5_CWZD1M012f",
+"meta_datetime": "05/11/2023 16:02:36",
+"meta_command_line": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.23f1\\Editor\\Unity.exe\" -projectpath C:\\Users\\cris\\Desktop\\GitHub\\IPM\\MCD -useHub -hubIPC -cloudEnvironment production -licensingIpc LicenseClient-cris -hubSessionId d230965c-f235-4018-a273-52b6af9bf63a -accessToken 5kzgB8bBCRhgzcrkqe_0FHfiHn_Simbeof2mjR6z4hA012f",
+"meta_command_line_args": "C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.23f1\\Editor\\Unity.exe -projectpath C:\\Users\\cris\\Desktop\\GitHub\\IPM\\MCD -useHub -hubIPC -cloudEnvironment production -licensingIpc LicenseClient-cris -hubSessionId d230965c-f235-4018-a273-52b6af9bf63a -accessToken 5kzgB8bBCRhgzcrkqe_0FHfiHn_Simbeof2mjR6z4hA012f",
 "meta_user_name": "cris",
 "meta_os_version": "Microsoft Windows NT 10.0.19045.0",
 "meta_cpu_count": "8"
